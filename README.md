@@ -1,2 +1,2 @@
 ## Banco de dados
-Estudos de bancos de dados
+Estudos sobre bancos de dados
